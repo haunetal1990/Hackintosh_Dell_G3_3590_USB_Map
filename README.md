@@ -7,7 +7,7 @@ What's working?</br>
 ✅ 1 x USB 3.1</br>
 ✅ 2x USB 2.0</br>
 
-Install info</br>
+Install info
 1. Download my generated USB Map</br>
 2. Download UTB Kext ( https://github.com/USBToolBox/tool )</br>
 3. Put the two Kext files into EFI/OC/Kexts and update your Config.plist</br>
