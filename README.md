@@ -7,7 +7,7 @@ USB Mapping for Dell G3 3590
 :white_check_mark: 1 x USB 3.1<br>
 :white_check_mark: 2x USB 2.0<br>
 
-# Install info
+## Install info
 - Download my generated USB Map<br>
 - Download UTB Kext ( [Github](https://github.com/USBToolBox/tool) )<br>
 - Put the two Kext files into EFI/OC/Kexts and update your Config.plist<br>
