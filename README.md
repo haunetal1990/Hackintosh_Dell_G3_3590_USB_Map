@@ -1,7 +1,7 @@
 # Hackintosh Dell G3 3590 USB Map
 USB Mapping for Dell G3 3590
 
-What's working?</br>
+What's working?
 ✅ USB-C = Charge and synchron your iPad / iPhone</br>
   ✅ USB-C Hub (i used a Vako USB Hub with 2x USB 3.0, 2x USB 2.0 + LAN)</br>
 ✅ 1 x USB 3.1</br>
