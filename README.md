@@ -3,7 +3,7 @@ USB Mapping for Dell G3 3590
 
 ## What's working?<br>
 :white_check_mark: USB-C = Charge and synchron your iPad / iPhone<br>
-     - :white_check_mark: USB-C Hub (i used a Vako USB Hub with 2x USB 3.0, 2x USB 2.0 + LAN)<br>
+     :white_check_mark: USB-C Hub (i used a Vako USB Hub with 2x USB 3.0, 2x USB 2.0 + LAN)<br>
 :white_check_mark: 1 x USB 3.1<br>
 :white_check_mark: 2x USB 2.0<br>
 
